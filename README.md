@@ -23,3 +23,13 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/ZiWang25/Alpha-in-Affordable-Housing-in-US.git
    cd Alpha-in-Affordable-Housing-in-US
+
+2. **Set up a virtual environment:**
+   python3 -m venv env
+   source env/bin/activate   # For Windows: env\Scripts\activate
+
+## Contact
+
+For any questions or inquiries, please contact Zi Wang at [ziwang25@gsb.columbia.edu].
+
+Thank you for your interest in this project!
